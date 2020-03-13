@@ -1,2 +1,2 @@
 # Compositron
-Inteligência artificial para criar letras de músicas
+Inteligência artificial para criar letras de músicas.
