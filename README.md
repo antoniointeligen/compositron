@@ -1,4 +1,4 @@
-<p align="center">(https://res.cloudinary.com/antoniointeligen/image/upload/v1584478013/logo_uzu5we.png)</p>
+(https://res.cloudinary.com/antoniointeligen/image/upload/v1584478013/logo_uzu5we.png)
 
 ## Sobre o Compositron
 Compositron é uma inteligência artificial que cria letras de músicas completas novas.
