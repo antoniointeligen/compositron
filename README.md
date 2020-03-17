@@ -3,7 +3,7 @@
 <br/>
 
 ## Sobre o projeto
-Compositron é uma inteligência artificial que cria letras de músicas completas novas.
+Compositron é uma inteligência artificial que cria letras de músicas completamente novas. Você pode acessar o projeto em: https://www.inteligen.com.br/compositron
 
 ## Fale com o autor
 Quer enviar uma sugestão, reportar um erro ou simplesmente me agradecer, envie um email para: antonio.henrique@inteligen.com.br.
