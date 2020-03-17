@@ -6,7 +6,7 @@
 Compositron é uma inteligência artificial que cria letras de músicas completamente novas.
 
 ## Fale com o autor
-Quer enviar uma sugestão, reportar um erro ou simplesmente me agradecer, envie um email para: antonio.henrique@inteligen.com.br.
+Quer enviar uma sugestão, reportar um erro ou simplesmente mandar um oi, envie um email para: antonio.henrique@inteligen.com.br.
 
 ## Licença
 O Compositron é livre mas ficarei feliz se você citar meu nome.
