@@ -1,5 +1,7 @@
 <p align="center"><img src="https://res.cloudinary.com/antoniointeligen/image/upload/c_scale,q_100,w_450/v1584478013/logo_uzu5we.png"></p>
-  
+
+<br/>
+
 ## Sobre o projeto
 Compositron é uma inteligência artificial que cria letras de músicas completas novas.
 
